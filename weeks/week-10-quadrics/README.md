@@ -10,7 +10,10 @@
 
 **Практика:** «Кривое из прямого, свет из уравнений» — проектирование гиперболоидального каркаса и сравнение зеркал. Доступны черновики: [студенческий](notebooks/straight-structures-focused-light.ipynb) и [преподавательский](notebooks/straight-structures-focused-light-teacher.ipynb).
 
-[Открыть студенческий ноутбук в Colab](https://colab.research.google.com/github/elena-kornaeva/AGLA/blob/main/weeks/week-10-quadrics/notebooks/straight-structures-focused-light.ipynb). Для локальной копии выберите в Colab «Файл → Загрузить блокнот».
+- [Открыть студенческий ноутбук в Colab](https://colab.research.google.com/github/elena-kornaeva/AGLA/blob/main/weeks/week-10-quadrics/notebooks/straight-structures-focused-light.ipynb)
+- [Открыть преподавательский ноутбук в Colab](https://colab.research.google.com/github/elena-kornaeva/AGLA/blob/main/weeks/week-10-quadrics/notebooks/straight-structures-focused-light-teacher.ipynb)
+
+Для локальной копии выберите в Colab «Файл → Загрузить блокнот».
 
 [Подробный план реализации (English)](tutorial-plan.md) содержит сценарий занятия, задания, формулы и проверки.
 

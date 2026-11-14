@@ -19,7 +19,7 @@
 | [07](weeks/week-07-vector-products/README.md) | Координаты и произведения | Что измеряют проекция, скалярное, векторное и смешанное произведения? | Поиск похожих векторов и ориентированная 3D-сцена |
 | [08](weeks/week-08-lines-planes/README.md) | Прямые и плоскости | Как записать прямую и плоскость разными способами? | Пересечения и взаимное расположение |
 | [09](weeks/week-09-angles-distances/README.md) | Прямые и плоскости | Как вычислять углы и расстояния? | Расстояния до границы разделения |
-| [10](weeks/week-10-quadrics/README.md) | Кривые и поверхности второго порядка | Как узнать поверхность по уравнению? | [Кривое из прямого, свет из уравнений](weeks/week-10-quadrics/notebooks/straight-structures-focused-light.ipynb) — редакционный черновик |
+| [10](weeks/week-10-quadrics/README.md) | Кривые и поверхности второго порядка | Как узнать поверхность по уравнению? | [Кривое из прямого, свет из уравнений](weeks/week-10-quadrics/notebooks/straight-structures-focused-light.ipynb) · [Открыть в Colab](https://colab.research.google.com/github/elena-kornaeva/AGLA/blob/main/weeks/week-10-quadrics/notebooks/straight-structures-focused-light.ipynb) |
 | [11](weeks/week-11-quadratic-forms/README.md) | Кривые и поверхности второго порядка | Что делает замена координат с квадратичной формой? | Эллипсы рассеяния и главные оси |
 | [12](weeks/week-12-transformations/README.md) | Преобразования | Как составлять повороты, переносы и отражения? | Мини-студия геометрических преобразований |
 | [13](weeks/week-13-vector-spaces/README.md) | Пространства и операторы | Что такое подпространство, ядро и образ? | Интерактивная геометрия линейного оператора |
